@@ -1,4 +1,4 @@
-package es.atrapandocucarachas.library.parser;
+package es.atrapandocucarachas.gpxparser.parser;
 
 import android.util.Xml;
 
@@ -10,10 +10,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 
-import es.atrapandocucarachas.library.model.Gpx;
-import es.atrapandocucarachas.library.model.Trk;
-import es.atrapandocucarachas.library.model.Trkpt;
-import es.atrapandocucarachas.library.model.Wpt;
+import es.atrapandocucarachas.gpxparser.model.Gpx;
+import es.atrapandocucarachas.gpxparser.model.Trk;
+import es.atrapandocucarachas.gpxparser.model.Trkpt;
+import es.atrapandocucarachas.gpxparser.model.Wpt;
 
 public class GpxParser {
 

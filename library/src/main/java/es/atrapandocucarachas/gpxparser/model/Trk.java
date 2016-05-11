@@ -1,4 +1,4 @@
-package es.atrapandocucarachas.library.model;
+package es.atrapandocucarachas.gpxparser.model;
 
 import java.util.ArrayList;
 

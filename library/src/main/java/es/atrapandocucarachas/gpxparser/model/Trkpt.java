@@ -1,4 +1,4 @@
-package es.atrapandocucarachas.library.model;
+package es.atrapandocucarachas.gpxparser.model;
 
 
 import com.google.android.gms.maps.model.LatLng;
