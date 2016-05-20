@@ -56,8 +56,6 @@ for (Wpt w : wpts) {
 
 Copyright Alejandro Platas 2016
 
-This file is part of some open source application.
-
 Licensed to the Apache Software Foundation (ASF) under one
 or more contributor license agreements.  See the NOTICE file
 distributed with this work for additional information
